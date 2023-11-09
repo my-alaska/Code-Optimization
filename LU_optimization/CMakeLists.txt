@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.19)
+project(LU_optimization C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(LU_optimization1 lu1.c)
+add_executable(LU_optimization2 lu2.c)
+add_executable(LU_optimization3 lu3.c)
+add_executable(LU_optimization4 lu4.c)
+add_executable(LU_optimization5 lu5.c)
+add_executable(LU_optimization6 lu6.c)
+add_executable(LU_optimization7 lu7.c)
+add_executable(LU_optimization8 lu8.c)
+add_executable(LU_optimization9 lu9.c)
+add_executable(LU_optimization10 lu10.c)

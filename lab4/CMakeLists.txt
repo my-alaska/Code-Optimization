@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.19)
+project(lab3_6_)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(lab3_1 str1.cpp)
+add_executable(lab3_2 str2.cpp)
+add_executable(lab3_3 str3.cpp)
+add_executable(lab3_4 str4.cpp)
+add_executable(lab3_5 str5.cpp)
+add_executable(lab3_6 str6.cpp)
+add_executable(lab3_7 str7.cpp)
+add_executable(lab3_8 str8.cpp)
+add_executable(lab3_9 str9.cpp)
+add_executable(lab3_10 str10.cpp)
+add_executable(lab3_11 str11.cpp)
+add_executable(lab3_12 str12.cpp)
